@@ -1,5 +1,6 @@
 GEM
   specs:
+    dalli (2.7.2)
     dotenv (1.0.2)
     hashie (3.3.2)
     multi_json (1.10.1)
@@ -26,6 +27,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dalli
   dotenv
   omniauth
   omniauth-twitter
