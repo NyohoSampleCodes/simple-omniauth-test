@@ -1,0 +1,6 @@
+* A simple OmniAuth test
+This is a simple OmniAuth test project.
+
+** test two session stores
+- master :: Rack::Session::Pool
+- dalli :: Rack::Session::Dalli
