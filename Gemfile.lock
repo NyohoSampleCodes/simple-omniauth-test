@@ -2,11 +2,11 @@ GEM
   remote: https://rubygems.org/
   specs:
     dotenv (2.5.0)
-    hashie (3.6.0)
+    hashie (4.1.0)
     mustermann (1.0.3)
     oauth (0.5.4)
-    omniauth (1.9.0)
-      hashie (>= 3.4.6, < 3.7.0)
+    omniauth (1.9.1)
+      hashie (>= 3.4.6)
       rack (>= 1.6.2, < 3)
     omniauth-oauth (1.1.0)
       oauth
@@ -14,7 +14,7 @@ GEM
     omniauth-twitter (1.4.0)
       omniauth-oauth (~> 1.1)
       rack
-    rack (2.0.6)
+    rack (2.2.2)
     rack-protection (2.0.5)
       rack
     sinatra (2.0.5)
